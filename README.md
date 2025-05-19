@@ -4,8 +4,9 @@ Bot Telegram ini memberikan informasi gempa terkini dari BMKG dan cuaca real-tim
 
 ## Fitur
 
-- .gempa — Menampilkan informasi gempa terbaru dari BMKG, lengkap dengan peta guncangan.
-- .cuaca [nama kota] — Menampilkan info cuaca saat ini berdasarkan nama kota (contoh: .cuaca jakarta).
+- /gempa — Menampilkan informasi gempa terbaru dari BMKG, lengkap dengan peta guncangan.
+- /cuaca_[nama kota] — Menampilkan info cuaca saat ini berdasarkan nama kota (contoh: /cuaca_jakarta).
+- /sayHi - Menyapa pengguna
 
 ## Teknologi
 
